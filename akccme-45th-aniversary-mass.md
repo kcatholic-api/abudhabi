@@ -7,7 +7,7 @@ paginate: true
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-# 천주교 아부다비 공동체
+# 아켐 45주년 기념 미사
 
 ![h:250](images/logo.svg)
 
