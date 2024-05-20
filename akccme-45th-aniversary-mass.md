@@ -21,7 +21,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-## 삼종기도
+## 삼종 기도
 
 ○ 주님의 천사가 마리아께 아뢰니
 ● 성령으로 잉태하셨나이다.
